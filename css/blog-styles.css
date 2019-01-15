@@ -3,7 +3,7 @@
 }
 
 .unimportant {
-  color: green;
+  color: #533451;
 }
 
 h1 {
@@ -16,9 +16,9 @@ img {
 }
 
 .sidebar {
-  width: 30%;
+  width: 10%;
   float: right;
-  background-color: blue;
+  background-color: #F97423;
 }
 
 .column {
@@ -30,4 +30,4 @@ img {
   margin: 12px;
   border: 2px solid yellow;
   padding: 4px;
-  background-color: pink;
+  background-color: #AFA6D0;
